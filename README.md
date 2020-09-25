@@ -1,4 +1,5 @@
 # Spring-boot_Security
+Spring Security is a framework that provides authentication, authorization, and protection to limited acces to our data.
 
 add springboot security dependency on pom file.
 
